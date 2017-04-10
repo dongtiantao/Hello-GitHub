@@ -1,0 +1,5 @@
+b78a0f5 HEAD@{0}: checkout: moving from new_branch_name to branch2
+b78a0f5 HEAD@{1}: checkout: moving from b78a0f56349495eed78ab2d1ee03ccd93f20ae7d to new_branch_name
+b78a0f5 HEAD@{2}: checkout: moving from master to 6ba1bb2^
+6ba1bb2 HEAD@{3}: commit: add "git" to welcom.text
+b78a0f5 HEAD@{4}: commit (initial): initilized
